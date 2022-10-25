@@ -1,0 +1,5 @@
+
+*.vcxproj
+*.filters
+ANKETA2/ANKETA2.cpp
+*.recipe
